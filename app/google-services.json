@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36948687001",
+    "firebase_url": "https://cofeed-c6cc5.firebaseio.com",
+    "project_id": "cofeed-c6cc5",
+    "storage_bucket": "cofeed-c6cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36948687001:android:6aaf182ba2dcfcae012008",
+        "android_client_info": {
+          "package_name": "com.example.cofeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36948687001-bfj8suid3u4roacftcn0pgbd90u03d74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cofeed",
+            "certificate_hash": "e0153f1ce6f631b0b281f6e566a4eb231b688c72"
+          }
+        },
+        {
+          "client_id": "36948687001-n9dkuqbvuq2g9b4d7up2vb6kp74or0of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFzMgEkJUOvvDiRqW3MAQpOJUlct17c3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36948687001-n9dkuqbvuq2g9b4d7up2vb6kp74or0of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

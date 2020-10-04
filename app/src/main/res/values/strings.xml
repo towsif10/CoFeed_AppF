@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CoFeed</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email..</string>
+    <string name="password">Password..</string>
+    <string name="log_in">Log In</string>
+    <string name="already_have_an_account_log_in">Already have an account? log In</string>
+    <string name="dont_have_account_sign_up">Dont have account? Sign Up</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="corona_virus_headlines">Corona Virus Headlines</string>
+    <string name="covid_news">Covid News</string>
+</resources>
